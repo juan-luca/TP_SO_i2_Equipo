@@ -1,1 +1,13 @@
 Juan Luca Santoliquido 192.168.56.1 10:29
+
+a- Git remote add upstream https://github.com/bruno8877/TP_SO_i2_Equipo113
+
+git fetch upstream
+
+
+Git checkout main
+
+
+Git rebase upstream/main
+
+b- Si, haciendo lo mismo que el paso anterior pero con el link del repo de GAMMA, luego hacer commit y push.
